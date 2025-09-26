@@ -1,0 +1,3 @@
+id=0
+name=nishtha
+salary=200000.000000
